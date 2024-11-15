@@ -2,6 +2,13 @@
 
 This website showcases the projects completed by Ahmet Karaköse for the IE582 course.
 
+### HW1 Links
+
+**[HW1 Notebook]([IE582_HW1_AK.html](https://github.com/BU-IE-582/fall-24-akarakose/blob/main/IE582_HW1_AK.html))**.
+**[HW1 Code]([https://www.openai.com](https://github.com/BU-IE-582/fall-24-akarakose/blob/main/IE582_HW1_AK.ipynb))**.
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
