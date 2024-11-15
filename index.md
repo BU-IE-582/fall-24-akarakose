@@ -4,8 +4,8 @@ This website showcases the projects completed by Ahmet Karaköse for the IE582 c
 
 ### HW1 Links
 
-**[HW1 Notebook](https://github.com/BU-IE-582/fall-24-akarakose/blob/main/IE582_HW1_AK.html)**.
-**[HW1 Code](https://github.com/BU-IE-582/fall-24-akarakose/blob/main/IE582_HW1_AK.ipynb)**
+- **[HW1 Notebook](https://github.com/BU-IE-582/fall-24-akarakose/blob/main/IE582_HW1_AK.html)**
+- **[HW1 Code](https://github.com/BU-IE-582/fall-24-akarakose/blob/main/IE582_HW1_AK.ipynb)**
 
 
 
