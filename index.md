@@ -7,29 +7,12 @@ This website showcases the projects completed by Ahmet Karaköse for the IE582 c
 - **[HW1 Notebook](https://github.com/BU-IE-582/fall-24-akarakose/blob/main/IE582_HW1_AK.html)**
 - **[HW1 Code](https://github.com/BU-IE-582/fall-24-akarakose/blob/main/IE582_HW1_AK.ipynb)**
 
+### HW2 Links
+- **[HW2 Notebook](https://github.com/BU-IE-582/fall-24-akarakose/blob/main/HW2_AK.html)**
+- **[HW2 Code](https://github.com/BU-IE-582/fall-24-akarakose/blob/main/HW2_AK.ipynb)**
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
