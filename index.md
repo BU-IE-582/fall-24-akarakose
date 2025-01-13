@@ -11,6 +11,9 @@ This website showcases the projects completed by Ahmet Karaköse for the IE582 c
 - **[HW2 Notebook](https://github.com/BU-IE-582/fall-24-akarakose/blob/main/HW2_AK.html)**
 - **[HW2 Code](https://github.com/BU-IE-582/fall-24-akarakose/blob/main/HW2_AK.ipynb)**
 
+### Project
+- **[Project Report](https://github.com/BU-IE-582/fall-24-akarakose/blob/main/IE582_ProjectReport_final.html)**
+- **[Project Code](https://github.com/BU-IE-582/fall-24-akarakose/blob/main/IE582_project_final.ipynb)**
 
 
 
